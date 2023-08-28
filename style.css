@@ -1,0 +1,42 @@
+*{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    background-color: #fdeff1;
+    height: 500px;
+    padding: 0px 100px;
+}
+.headLeft{
+    padding: 20px;
+}
+.headLeft>h1{
+    font-weight: 900;
+    font-size: 40px;
+ 
+}
+.headLeft>p{
+    color: #00000092;
+    margin: 20px 0;
+
+}
+.headRight{
+    padding: 0px;
+    margin-left: 80px;
+    
+}
+.headRight>img{
+     width: 350px;position: absolute;
+     bottom: 122px;  
+    
+}
+button{
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    background-color: #e55473;
+}
