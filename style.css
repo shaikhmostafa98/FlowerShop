@@ -83,5 +83,37 @@ button{
     
 }
 
-.featured{}
-.featured{}
+.services{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f5f5;
+    box-sizing: border-box;
+    padding: 40px 0;
+    margin: 100px 30px;
+}
+.services>div{
+    padding: 0 50px;
+}
+.services>div>img{
+    width: 60px;
+}
+.deal{
+    background-color: #fff7f8;
+    display: flex;
+    align-items: center;
+    padding: 0px 100px;
+}
+.dealCard1{
+    text-align: center;
+}
+.off{
+    color:#e55473
+}
+.dealCard2{
+    padding: 50px;
+}
+.dealCard2>img{
+    width: 70%;
+    padding-left: 100px;
+}
