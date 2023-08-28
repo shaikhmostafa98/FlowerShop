@@ -117,3 +117,53 @@ button{
     width: 70%;
     padding-left: 100px;
 }
+.socialShare{
+    margin: 70px 100px;
+    text-align: center;
+}
+.imgContainer{
+    margin: 40px 0;
+}
+.imgContainer>img{
+    width: 220px;
+    height: 245px;
+    padding: 5px;
+}
+.info{
+    margin: 0 170px;
+    border-radius: 4px;
+    padding: 100px 200px ;
+    text-align: center;
+    background-image: url(./img/Rectangle\ 9.png);
+}
+.info>p{
+    font-size: 13px;
+    margin: 5px 0 40px 0;
+}
+.info>input{
+    width: 400px;
+    height: 25px;
+    padding: 6px 10px 6px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+}
+footer{
+    text-align: center;
+    background-color: #000;
+    margin-top: 100px;
+    padding: 100px 0;
+    color: #fff;
+}
+footer>p{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+footer>small{
+    color: #7d7c7d;
+}
+footer>small>a{
+    color: #7d7c7d;
+    text-decoration: none;
+}
