@@ -47,10 +47,12 @@ button{
 }
 .featured{
    text-align: center;
-   margin: 100px 100px;
+   margin: 100px;
 }
 .curvImg{
     display: flex;
+    
+    justify-content: center;
 }
 .curv1>img{
     border-radius: 50% 50% 0 0;
