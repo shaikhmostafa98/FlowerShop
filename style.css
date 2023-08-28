@@ -149,6 +149,22 @@ button{
     border-radius: 3px;
     font-size: 15px;
 }
+.customarReview{
+    text-align: center;
+    padding: 70px 100px;
+}
+.review{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.imgc{
+    width: 125px;
+    border: 4px solid #565252;
+    height: 125px;
+    border-radius: 50%;
+}
 footer{
     text-align: center;
     background-color: #000;
