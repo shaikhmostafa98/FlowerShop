@@ -9,6 +9,7 @@ header{
     background-color: #fdeff1;
     height: 500px;
     padding: 0px 100px;
+    
 }
 .headLeft{
     padding: 20px;
@@ -30,8 +31,9 @@ header{
     
 }
 .headRight>img{
-     width: 350px;position: absolute;
-     bottom: 122px;  
+     width: 350px;
+     position: absolute;
+     top:58px;  
     
 }
 button{
@@ -130,7 +132,7 @@ button{
     padding: 5px;
 }
 .info{
-    margin: 0 170px;
+    margin: 0 212px;
     border-radius: 4px;
     padding: 100px 200px ;
     text-align: center;
