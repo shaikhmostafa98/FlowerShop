@@ -18,9 +18,10 @@ header{
     font-size: 40px;
  
 }
-.headLeft>p{
+.paraText{
     color: #00000092;
     margin: 20px 0;
+    line-height: 1.5re;
 
 }
 .headRight{
@@ -39,4 +40,48 @@ button{
     border: none;
     border-radius: 3px;
     background-color: #e55473;
+    font-weight: 700;
+    font-size: 15px;
 }
+.featured{
+   text-align: center;
+   margin: 100px 100px;
+}
+.curvImg{
+    display: flex;
+}
+.curv1>img{
+    border-radius: 50% 50% 0 0;
+    background-color: #ddd;
+    margin: 10px;
+    width: 250px;
+    height: 300px;
+    padding: 80px 40px 0 40px;
+    background-color: #f3dee6;
+}
+.curv2>img{
+    border-radius: 50% 50% 0 0;
+    background-color: #ddd;
+    margin: 10px;
+    width: 250px;
+    height: 300px;
+    padding: 80px 40px 0 40px;
+    background-color: #d9eff1;
+}
+.curv3>img{
+    border-radius: 50% 50% 0 0;
+    background-color: #ddd;
+    margin: 10px;
+    width: 250px;
+    height: 300px;
+    padding: 80px 40px 0 40px;
+    background-color: #e3eada;
+}
+.curvP{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+.featured{}
+.featured{}
